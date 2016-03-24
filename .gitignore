@@ -63,3 +63,6 @@ target/
 
 # db sqlite
 db.sqlite3
+
+# Ropeproject
+.ropeproject
